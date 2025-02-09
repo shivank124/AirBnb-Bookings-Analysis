@@ -1,4 +1,4 @@
-# **Capstone-EDA-project-1-Airbnb-bookings-analysis**
+# **AirBnb Booking Analysis**
 
 
 ![AirBnb](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
@@ -6,12 +6,11 @@
 
 # Table Of Contents
   
-  - [Introduction of Airbnb](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#introduction-of-airbnb)
-  - [About the Dataset](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#about-the-dataset--airbnb-bookings)
-  - [Python libraries used](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#different-python-libraries-used-to-complete-this-eda)
-  - [Project Work flow](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#project-work-flow)
-  - [purpose of the analysis](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#the-purpose-of-the-analysis)
-  - [Certificate](https://github.com/SarangGami/Capstone-EDA-project-1-Airbnb-bookings-analysis/edit/main/README.md#certificate)
+  - [Introduction of Airbnb]
+  - [About the Dataset]
+  - [Python libraries used]
+  - [Project Work flow]
+  - [purpose of the analysis]
 
 
 
